@@ -1,0 +1,10 @@
+#spring:
+##  application:
+##    name: spring-boot-config-server
+##  cloud:
+##    config:
+##      server:
+##        git:
+##          uri:
+server:
+  port: 12909
